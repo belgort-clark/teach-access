@@ -20,7 +20,7 @@ I'm sure that you know that people who are blind won't be able to read the conte
 
 Similarly, people who are deaf will used "closed captioning" when watching a video or a transcript to read instead of listening to a podcast.
 
-Blindness and deafness are disabilities. There are many other disabilities that people can have that will affect the way they interact with the web.
+Blindness and deafness are disabilities. There are many other disabilities that people can have that will affect the way they interact with the web. More on this later.
 
 ## The Americans with Disabilities Act
 
@@ -33,3 +33,22 @@ This act defines disability as:
 A person who has a physical or mental impairment that substantially limits one or more major life activity.
 
 You can learn more about the ADA at [http://ada.gov](http://ada.gov)
+
+## Types of Disabilities
+
+Prior to reading this section, Exercise No. 1 should be completed. It's an in-class group activity. The exercise should be alotted 20 minutes of time.
+
+Here's a list of common disabilities that require web developers and designers to consider when creating new sites and site content:
+
+- Blind
+- Low Vision
+- Hearing
+- Mobility / Dexterity (fine motor control, low-strength, single handedness)
+- Cognitive (attention, memory-related, literacty, routines/predictability)
+- Vestibular (balance)
+- Speech
+
+## Equal Access for All Web Users
+
+Now you are probably wondering what all of this has to do with this course on HTML Fundamentals. 
+
