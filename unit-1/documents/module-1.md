@@ -22,7 +22,7 @@ I'm sure that you know that people who are blind won't be able to read the conte
 
 Similarly, people who have hearing impairments will used "closed captioning" when watching a video or read a transcript instead of listening to a podcast.
 
-Blindness and deafness are disabilities. There are many other disabilities that people can have that will affect the way they interact with the web. More on this later.
+Blindness and deafness are disabilities. There are many other disabilities that people can have that will affect the way they interact with the web.
 
 ## The Americans with Disabilities Act
 
@@ -56,4 +56,4 @@ Now you are probably wondering what all of this has to do with this course on HT
 
 Well, it's our job to insure that the things we create on the web can be consumed by everybody. The World Wide Web Consortium (W3C) has developed several sets of guidlines that can help web developers create sites that everyone, regardless of their disability can use and access equally.
 
-We will be looking more at these guidelines in the next module.
+We will be looking more at these guidelines in other modules.
