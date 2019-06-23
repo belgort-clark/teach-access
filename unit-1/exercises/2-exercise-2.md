@@ -1,10 +1,10 @@
 # Module 1 - Exercise No. 2
 
-In this exercise you will try and navigate a website using only the keyboard.
+In this exercise,you will try and navigate a website using only the keyboard.
 
 Students should be given 15 minutes to complete this exercise.
 
-If students are not familiar with how to use their keybaord to navigate a site using Google Chrome, have them watch this video:
+If students are not familiar with how to use their keyboard to navigate a site using Google Chrome, have them watch this video:
 
 [Video: Navigating Chrome on Windows by Keyboard: Browsing and Help](https://www.youtube.com/watch?v=itEFxbEe150)
 
