@@ -4,7 +4,9 @@ There are many different ways in which people with disabilities use the web. In 
 
 Desktop operating systems such as Apple's OS X and Microsoft's Windows offer users with disabilities several ways to help improve their ability to use computers.
 
-Additionally, mobile devices and tables such as Apple's iPhone and iPad, and tablets and phones that run Google Android also provide ways to help make it easier for people with disabilities to use them.
+Additionally, mobile devices and tablets such as Apple's iPhone and iPad, and tablets and phones that run Google Android also provide ways to help make it easier for people with disabilities to use them.
+
+Below you will see the various examples of how companies like Apple, Google, and Microsoft have incorporated accessibility features into their products. Be sure to thoroughly read and watch the material on these sites.
 
 ## Apple OS X and iOS Accessibility Features
 
