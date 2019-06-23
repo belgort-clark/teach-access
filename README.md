@@ -14,4 +14,8 @@ The material provided in this repository can be used
 
 ## List of Resources Inlcuding in this Repo
 
+### Unit 1
 
+- [Assignments](https://github.com/belgort-clark/teach-access/tree/master/unit-1/assignments)
+- [Documents](https://github.com/belgort-clark/teach-access/tree/master/unit-1/documents)
+- [Quizzes]()
