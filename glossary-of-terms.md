@@ -6,6 +6,10 @@ https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990
 
 https://www.w3.org/WAI/standards-guidelines/aria/
 
+**CSS**: Cascading Style Sheet
+
+**HTML**: Hyptertext Markup Language
+
 **Inclusive Design**: Inclusion is concerned with maximizing audience. Accessibility is concerned with minimizing barriers for people with disabilities. Usability is concerned with ensuring products are usable by humans. Individual disciplines exist for a reason, none of them are subsets of the other.
 
 https://www.w3.org/WAI/EO/wiki/Accessibility_and_Inclusive_Design/Content_Development

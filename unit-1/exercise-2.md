@@ -4,6 +4,12 @@ In this exercise you will try and navigate a website using only the keyboard.
 
 Students should be given 15 minutes to complete this exercise.
 
+If students are not familiar with how to use their keybaord to navigate a site using Google Chrome, have them watch this video:
+
+[Video: Navigating Chrome on Windows by Keyboard: Browsing and Help](https://www.youtube.com/watch?v=itEFxbEe150)
+
+[Video: Navigating Chrome on Mac by Keyboard: Tabs and Links](https://www.youtube.com/watch?v=9ASEC6E_dPU)
+
 ## Directions
 
 1. Students should do this exercise on their own
