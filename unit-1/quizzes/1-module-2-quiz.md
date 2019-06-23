@@ -70,7 +70,7 @@ Many people with physical disabilities rely on voice recognition assistive techn
 
 ## Question 9
 
-In order for voice recognition software to work correclty, websites need no additional changes most of the time
+In order for voice recognition software to work correctly, websites need no additional changes most of the time
 
 1) True
 2) False (Correct answer)
@@ -102,14 +102,14 @@ Complex layouts make it nearly impossible for visual disabilities to navigate a 
 
 ## Question 13
 
-Complex layouts make it easy for people with cogntive disabilites to navigate a site
+Complex layouts make it easy for people with cognitive disabilities to navigate a site
 
 1) True
 2) False (Correct answer)
 
 ## Question 14
 
-A user of your site can become qucily disoritented and confused if you don't provide clear feedback and notifications
+A user of your site can become quickly disoriented and confused if you don't provide clear feedback and notifications
 
 1) True (Correct answer)
 2) False
@@ -123,10 +123,10 @@ Providing feedback after a user submits a form on a webiste such as "Fatal Error
 
 ## Question 16
 
-It's not important to make error messages predicatable and understandable
+It's not important to make error messages predictable and understandable
 
 1) Nope. Not important
-2) Yes! It's super important
+2) Yes! It's super important (Correct answer)
 
 ## Question 17
 
@@ -179,7 +179,7 @@ In some situations, web accessibility is required by law
 
 ## Question 24
 
-It is most efficient and effective to incorporate accessibility from the very beginning of projects, so you don’t need go back and to re-do work.
+It is most efficient and effective to incorporate accessibility from the very beginning of projects, so you don’t need to go back and to re-do work.
 
 1) True (Correct answer)
 2) False
