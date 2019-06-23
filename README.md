@@ -14,8 +14,18 @@ The material provided in this repository can be used
 
 ## List of Resources Inlcuding in this Repo
 
+### Canvas LMS Export File
+
+The contents of this repository are also available as a Canvas LMS .imscc (IMS Common Cartridge). You will find the content in the Pages, Assignments and Quizzes areas.
+
 ### Unit 1
 
 - [Assignments](https://github.com/belgort-clark/teach-access/tree/master/unit-1/assignments)
 - [Documents](https://github.com/belgort-clark/teach-access/tree/master/unit-1/documents)
-- [Quizzes]()
+- [Quizzes](https://github.com/belgort-clark/teach-access/tree/master/unit-1/quizzes)
+
+### Unit 2
+
+- [Assignments](https://github.com/belgort-clark/teach-access/tree/master/unit-2/assignments)
+- [Documents](https://github.com/belgort-clark/teach-access/tree/master/unit-2/documents)
+- [Quizzes](https://github.com/belgort-clark/teach-access/tree/master/unit-2/quizzes)
