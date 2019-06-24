@@ -1,4 +1,4 @@
-# Module 1 - Exercise No. 2
+# Exercise No. 2
 
 In this exercise,you will try and navigate a website using only the keyboard.
 

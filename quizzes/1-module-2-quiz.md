@@ -61,7 +61,7 @@ As we age, low contrast sensitivity becomes more common
 1) True (Correct answer)
 2) False
 
-## Questoin 8
+## Question 8
 
 Many people with physical disabilities rely on voice recognition assistive technology to do things with their computer
 

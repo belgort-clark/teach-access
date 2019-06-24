@@ -1,4 +1,4 @@
-# Module 1 - Exercise No. 1
+# Exercise No. 1
 
 In this module, you learned about two disabilities: blindness and deafness. In this exercise you are going to try and identify a list of other disabilities and what assistive technology can be used to help them interact with a computer and web browser.
 
