@@ -18,14 +18,10 @@ The material provided in this repository can be used
 
 The contents of this repository are also available as a Canvas LMS .imscc (IMS Common Cartridge). You will find the content in the Pages, Assignments and Quizzes areas.
 
-### Unit 1
+### Links to Resources
 
-- [Assignments](https://github.com/belgort-clark/teach-access/tree/master/unit-1/assignments)
-- [Documents](https://github.com/belgort-clark/teach-access/tree/master/unit-1/documents)
-- [Quizzes](https://github.com/belgort-clark/teach-access/tree/master/unit-1/quizzes)
-
-### Unit 2
-
-- [Assignments](https://github.com/belgort-clark/teach-access/tree/master/unit-2/assignments)
-- [Documents](https://github.com/belgort-clark/teach-access/tree/master/unit-2/documents)
-- [Quizzes](https://github.com/belgort-clark/teach-access/tree/master/unit-2/quizzes)
+- [Assignments](https://github.com/belgort-clark/teach-access/tree/master/assignments)
+- [Documents](https://github.com/belgort-clark/teach-access/tree/master/documents)
+- [Quizzes](https://github.com/belgort-clark/teach-access/tree/master/quizzes)
+- [Miscellaneous](https://github.com/belgort-clark/teach-access/tree/master/miscellaneous)
+- [Video: Color Contrast in Web Design (CC)](https://www.youtube.com/watch?v=k-rtTU3JllU)

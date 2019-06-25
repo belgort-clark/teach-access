@@ -1,0 +1,83 @@
+/* style.css */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    background: #dadada;
+}
+
+nav a:link, nav a:visited, nav a:active {
+    color: #ffffff;
+}
+
+nav {
+    background: #5B6D83;
+    padding: 20px;
+}
+
+nav ul {
+    text-align: left;
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav li a {
+    margin: 50px;
+}
+
+aside a:link, aside a:visited, aside a:active {
+    color: #000000;
+}
+
+article a:link, article a:visited, article a:active {
+    color: #000000;
+    text-decoration: underline;
+}
+
+header {
+    text-align: center;
+    color: #ffffff;
+    background: #2B5180;
+    padding: 30px;
+}
+
+form {
+    float: right;
+    margin: -37px 80px 0 0;
+    padding: 0;
+}
+
+input {
+    padding: 5px;
+}
+
+input[type=submit] {
+    background: #2B5180
+    color: #ffffff;
+}
+
+aside {
+    float: right;
+    width: 260px;
+    padding: 20px;
+    background: #4582CC;
+}
+
+article {
+    float: left;
+    width: 660px;
+    padding: 20px;
+    margin: 0 0 40px 0;
+    background: #A3CDFF;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}
