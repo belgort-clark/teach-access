@@ -24,4 +24,13 @@ The contents of this repository are also available as a Canvas LMS .imscc (IMS C
 - [Documents](https://github.com/belgort-clark/teach-access/tree/master/documents)
 - [Quizzes](https://github.com/belgort-clark/teach-access/tree/master/quizzes)
 - [Miscellaneous](https://github.com/belgort-clark/teach-access/tree/master/miscellaneous)
+
+**Videos**
+
 - [Video: Color Contrast in Web Design (CC)](https://www.youtube.com/watch?v=k-rtTU3JllU)
+- [Video: A Different View of Your Website (CC)](https://www.youtube.com/watch?v=vC03SMzXJTY)
+
+## Press Related
+
+- The Columbian - [Clark instructor receives tech grant](https://www.columbian.com/news/2018/jul/17/clark-instructor-receives-tech-grant/)
+- Clark College News - [Teaching accessibility](https://news.clark.edu/2018/07/teaching-accessibility/)
