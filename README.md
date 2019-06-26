@@ -29,6 +29,7 @@ The contents of this repository are also available as a Canvas LMS .imscc (IMS C
 
 - [Video: Color Contrast in Web Design (CC)](https://www.youtube.com/watch?v=k-rtTU3JllU)
 - [Video: A Different View of Your Website (CC)](https://www.youtube.com/watch?v=vC03SMzXJTY)
+- [Video: Using Label Tags on Your Forms](https://www.youtube.com/watch?v=tNzLdpETV3I)
 
 ## Press Related
 

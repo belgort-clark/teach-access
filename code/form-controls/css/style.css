@@ -13,3 +13,20 @@ form {
     background: #ffffff;
     padding: 20px;
 }
+
+header {
+    background: #bababa;
+    padding: 10px;
+}
+
+header h1 {
+    margin-left: 10px;
+}
+
+input[type="text"] {
+    font-size: 1.25em;
+}
+
+textarea {
+    font-size: 1.25em;
+}

@@ -10,17 +10,24 @@
 </head>
 
 <body>
-    <h1>A Simple form</h1>
+    <header>
+        <h1>A Web Form</h1>
+    </header>
     <form>
         <label for="first">First Name (Required)</label>
-        <!-- First Name -->
+        <!-- First Name (Required) -->
         <br><br>
-        <input type="text" name="first_name" id="first">
+        <input type="text" name="first_name" id="first" size="40">
         <br><br>
         <label for="last">Last Name (Required)</label>
-        <!-- Last Name -->
+        <!-- Last Name (Required) -->
         <br><br>
-        <input type="text" name="last_name" id="last">
+        <input type="text" name="last_name" id="last" size="40">
+        <br><br>
+        <label for="comments">Comments</label>
+        <!-- Comments -->
+        <br><br>
+        <textarea name="comments" id="comments" cols="50" rows="10"></textarea>
         <br><br>
         <input type="submit" value="Submit">
     </form>

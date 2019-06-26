@@ -1,10 +1,10 @@
 # Exercise 4 - Simulating Macular Degeneration
 
-In this exercise you will simulate what's it's like for people with macular degenration to use the web. You are to write down your experiences on a piece of paper or in a digital document. You will then be asked to participate in a class discussion after your analysis.
+In this exercise you will simulate what's it's like for people with macular degeneration to use the web. You are to write down your experiences on a piece of paper or in a digital document. You will then be asked to participate in a class discussion after your analysis.
 
 The instructor will provide you with small pieces of paper or plastic straws. You will use then look through the straws to experience how a person with macular degeneration will navigate through several websites.
 
-If you don't have straws, you can cup your hand by making a fist and then losening up your hand.
+If you don't have straws, you can cup your hand by making a fist and then loosening up your hand.
 
 ## Step 1
 
