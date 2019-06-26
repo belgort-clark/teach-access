@@ -1,0 +1,15 @@
+/* style.css */
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+    width: 1000px;
+    margin: 0 auto;
+    background: #dadada;
+}
+
+form {
+    background: #ffffff;
+    padding: 20px;
+}
