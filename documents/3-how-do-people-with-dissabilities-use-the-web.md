@@ -1,4 +1,4 @@
-# How do People With Dissabilities Use the Web?
+# How do People With Disabilities Use the Web?
 
 There are many different ways in which people with disabilities use the web. In one of the videos you watched in a prior section, you saw people using screen readers, captioning, pointing devices operated using a persons mouth as well as others.
 
